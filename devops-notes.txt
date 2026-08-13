@@ -12,3 +12,4 @@ mv - Moves or renames files or directories
 rm - Removes files or directories
 GitHub practice - learning commits and repository history
 This change is made on the github-practice branch.
+Learning Git locally with GitHub
