@@ -13,3 +13,4 @@ rm - Removes files or directories
 GitHub practice - learning commits and repository history
 This change is made on the github-practice branch.
 Learning Git locally with GitHub
+Learning git pull from GitHub to my laptop
