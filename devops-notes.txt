@@ -1,1 +1,7 @@
  I am learning Git and Github as part of my Devops journey.
+Linux Commands I Have Practiced:
+pwd - shows the current directory
+ls - lists files and folders
+cd - changes directory
+mkdir - creates a directory
+touch - creates a file
